@@ -26,7 +26,7 @@ app.get('/contact',(req,res)=>{
 });
 app.post('/contact',(req,res)=>{
 // const b=req.body;
-//     // console.log(req.body);
+//     console.log(req.body);
 //     const detail=new newContact({Name:b.Name,
 //     phone:b.phone,
 // email:b.email,
